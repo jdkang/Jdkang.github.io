@@ -1,6 +1,6 @@
 baseURL = "https://jdkang.github.io/"
 languageCode = "en-us"
-title = "a canticle for devops"
+title = "the mostly blind engineer"
 theme = "hugo-dusk"
 canonifyurls = true
 SectionPagesMenu = "main"
