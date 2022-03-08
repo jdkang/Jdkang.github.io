@@ -1,7 +1,7 @@
 ---
 title: "Taking the Linux Foundation Certified Kubernetes Administrator Exam As A Disabled Person"
 date: 2022-03-08T15:49:04-05:00
-draft: true
+draft: false
 ---
 
 This post is intended to document aspects of taking the Certified Kubernetes Administrator (CKA) exam as a disabled person. Specifically in my case, a visually impaired person. The hope is this will (a) make it easier for anyone in a similar situation and (b) help improve processes long-term for the disabled.
