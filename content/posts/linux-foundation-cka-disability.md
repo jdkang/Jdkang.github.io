@@ -42,7 +42,7 @@ In addition to _Testing Environment Requirements_ in the [Candidate Handbook](ht
 3. You will need to be able to position your camera with your face (and mouth) very clearly in view AND be able to move the camera around to inspect many aspects of your setup. I was asked to lift my laptop, move a mousepad, etc.
     - This is important if you need to sit close to the monitor like myself as traditional ways of mounting the camera on top or via a stand can be challenging to satisfy this requirement. In most work/meeting situations a larger shot frame is okay but not for the exam.
 4. For the visually impaired, I was able to use the [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US) chrome extension with the simulator to create a **high contrast** environment. I did also request this with the special accommodations form as well. (Obviously a dark mode within the actual simulator would have been more ideal.)
-5. The `CTRL+l` bash shortcut works to clear the terminal. This can be useful if you have to zoom the screen in very far.
+5. The `CTRL+l` [bash shortcut](https://ss64.com/bash/syntax-keyboard.html) works to clear the terminal. This can be useful if you have to zoom the screen in very far.
 
 # More General Comments and Tips
 This section is more general advice not necessarily only useful to the visually impaired or those with disabilities.
